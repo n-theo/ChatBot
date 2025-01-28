@@ -1,7 +1,8 @@
 ### Simple Joke ChatBot
 **1. Clone Project**:
 ```bash
-cd chatBot
+git clone https://github.com/n-theo/ChatBot.git
+cd ChatBot
 ```
 **2. Install dependencies:**
 ```bash
